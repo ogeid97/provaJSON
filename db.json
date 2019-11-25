@@ -1,4 +1,7 @@
 { 
+ "Utenti": 
+ [
+ {
  "name":"John", 
  "age":30, 
  "car":null 
@@ -12,4 +15,6 @@
  "name":"John", 
  "age":21, 
  "car":"BMW" 
-},
+}
+ ]
+}
